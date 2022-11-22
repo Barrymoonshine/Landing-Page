@@ -110,3 +110,10 @@ a {
     background: #E5E7EB;
     padding: 40px 0 40px 0;
 }
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
