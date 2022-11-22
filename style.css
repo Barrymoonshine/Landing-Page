@@ -107,7 +107,6 @@ a {
 .container-four{
     display:flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     background: #E5E7EB;
     padding: 40px 0 40px 0;
@@ -125,5 +124,7 @@ a {
     font-size: 18px;
     font-weight:700;
     color: #1F2937;
-    align-items: flex-end;
+    align-self:flex-end;
+    flex: 0 0 auto;
+    width:800px;
 }
