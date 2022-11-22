@@ -82,14 +82,14 @@ a {
     color:#1F2937;
     font-size:36px;
     font-weight: 900;
-    padding: 0 0 40px;
+    padding: 0 0 40px 0;
 }
 
 .container-three {
     display:flex;
     justify-content: center;
     gap: 52px;
-    padding: 0 0 40px 0;
+    padding: 0 0 100px 0;
 }
 
 .box {
@@ -104,3 +104,9 @@ a {
     text-align: center;
 }
 
+.container-four{
+    display:flex;
+    justify-content: center;
+    background: #E5E7EB;
+    padding: 40px 0 40px 0;
+}
