@@ -92,3 +92,8 @@ a {
     height:100px;
     padding:20px;
 }
+
+.items {
+    max-width: 200px;
+    text-align:center;
+}
