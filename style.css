@@ -106,7 +106,9 @@ a {
 
 .container-four{
     display:flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     background: #E5E7EB;
     padding: 40px 0 40px 0;
 }
