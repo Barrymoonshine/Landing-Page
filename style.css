@@ -149,3 +149,7 @@ a {
 .header-five {
     font-weight: 700;
 }
+
+.sign-up{
+    display: flex;
+}
